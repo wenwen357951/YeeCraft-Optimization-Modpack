@@ -1,16 +1,48 @@
 {
   "main_menu": {
     "top_left": [],
-    "top_right": [],
+    "top_right": [
+      {
+        "text": "Join our Discord!",
+        "color": "aqua",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://discord.gg/yeemo"
+        }
+      }
+    ],
     "bottom_left": [],
-    "bottom_right": [],
+    "bottom_right": [
+      {
+        "text": "YeeCraft 1.0.0 - Alpha",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/YeemoTW/Yeemo-Reborn-Optimization-Modpack"
+        }
+      }
+    ],
     "mod_blacklist": []
   },
   "pause_menu": {
     "top_left": [],
-    "top_right": [],
+    "top_right": [
+      {
+        "text": "Join our Discord!",
+        "color": "aqua",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://discord.gg/yeemo"
+        }
+      }
+    ],
     "bottom_left": [],
-    "bottom_right": [],
+    "bottom_right": [
+      {
+        "translate": "isxander-main-menu-credits.fabrishot",
+        "fallback": "使用 F9 拍攝4K截圖",
+        "color": "dark_gray"
+      }
+    ],
     "mod_blacklist": []
   }
 }
