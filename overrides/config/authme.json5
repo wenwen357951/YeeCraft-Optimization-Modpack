@@ -31,11 +31,6 @@
 			// Minecraft profile url
 			"mcProfileUrl": "https://api.minecraftservices.com/minecraft/profile"
 		},
-		// Login via Mojang (or legacy)
-		"mojang": {
-			// Last used username
-			"lastUsername": ""
-		},
 		// Login Offline
 		"offline": {
 			// Last used username
